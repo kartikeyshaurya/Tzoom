@@ -1,11 +1,14 @@
+
 body{
   font: 15px/1.5 Arial, Helvetica,sans-serif;
   padding:0;
   margin:0;
-  background-color:##cecece;
+  background-color:#ffdada;
 }
 
 /* Global */
+
+
 .heading{
   width:80%;
   margin:auto;
@@ -17,14 +20,7 @@ ul{
   padding:0;
 }
 
-.button_1{
-  height:38px;
-  background:#e8491d;
-  border:0;
-  padding-left: 20px;
-  padding-right:20px;
-  color:#ffffff;
-}
+
 
 .dark{
   padding:15px;
@@ -70,7 +66,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#e8491d;
+  color:#ffdada;
   font-weight:bold;
 }
 
